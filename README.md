@@ -32,6 +32,7 @@ If you have any improvements to propose, be my guest, make a PR!
 ## Papers
 
 - [Philip Wadler: Theorems for free!](http://ttic.uchicago.edu/~dreyer/course/papers/wadler.pdf)
+- [Philip Wadler: How to make ad-hoc polymorphism less ad hoc](http://homepages.inf.ed.ac.uk/wadler/papers/class/class.ps)
 
 ## Others
 
