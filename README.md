@@ -28,6 +28,7 @@ If you have any improvements to propose, be my guest, make a PR!
 - [Towards understanding Haskell’s monomorphism restriction](http://lambda.jstolarek.com/2012/05/towards-understanding-haskells-monomorphism-restriction/)
 - [Thunk (functional programming)](http://en.wikipedia.org/wiki/Thunk_(functional_programming))
 - [Lenses](http://twanvl.nl/files/lenses-talk-2011-05-17.pdf)
+- [The Haskell Heap](http://blog.ezyang.com/2011/04/the-haskell-heap/)
 
 ## Papers
 
