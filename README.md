@@ -22,6 +22,7 @@ If you have any improvements to propose, be my guest, make a PR!
 - [C9 Lectures: Dr. Erik Meijer - Functional Programming Fundamentals](http://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals/Lecture-Series-Erik-Meijer-Functional-Programming-Fundamentals-Chapter-1)
 - [Brian Beckman: Don't fear the Monad](http://www.youtube.com/watch?v=ZhuHCtR3xq8)
 - [Lenses, Folds, and Traversals](https://www.youtube.com/watch?v=cefnmjtAolY&hd=1&t=1m14s)
+- [Haskell Amuse-Bouche](http://www.youtube.com/watch?v=b9FagOVqxmI))
 
 
 ## Articles
