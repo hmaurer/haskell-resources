@@ -30,6 +30,7 @@ If you have any improvements to propose, be my guest, make a PR!
 - [Thunk (functional programming)](http://en.wikipedia.org/wiki/Thunk_(functional_programming))
 - [Lenses](http://twanvl.nl/files/lenses-talk-2011-05-17.pdf)
 - [The Haskell Heap](http://blog.ezyang.com/2011/04/the-haskell-heap/)
+- [All About Monads](http://www.haskell.org/haskellwiki/All_About_Monads)
 
 ## Papers
 
