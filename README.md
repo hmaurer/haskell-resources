@@ -31,6 +31,7 @@ If you have any improvements to propose, be my guest, make a PR!
 - [Lenses](http://twanvl.nl/files/lenses-talk-2011-05-17.pdf)
 - [The Haskell Heap](http://blog.ezyang.com/2011/04/the-haskell-heap/)
 - [All About Monads](http://www.haskell.org/haskellwiki/All_About_Monads)
+- [Write Yourself a Scheme in 48 Hours](http://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
 
 ## Papers
 
