@@ -16,6 +16,7 @@ If you have any improvements to propose, be my guest, make a PR!
 - [Learn You a Haskell for Great Good](http://learnyouahaskell.com/chapters)
 - [Real World Haskell](http://book.realworldhaskell.org/read/)
 - [A Gentle Introduction to Haskell](http://www.haskell.org/tutorial/)
+- [Yet Another Haskell Tutorial](http://www.umiacs.umd.edu/~hal/docs/daume02yaht.pdf)
 
 ## Videos
 
