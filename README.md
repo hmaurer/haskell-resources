@@ -18,6 +18,7 @@ If you have any improvements to propose, be my guest, make a PR!
 - [A Gentle Introduction to Haskell](http://www.haskell.org/tutorial/)
 - [Yet Another Haskell Tutorial](http://www.umiacs.umd.edu/~hal/docs/daume02yaht.pdf)
 - [Haskell the Hard Way](http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way/)
+- [Wikibook Haskell](http://en.wikibooks.org/wiki/Haskell)
 
 ## Videos
 
