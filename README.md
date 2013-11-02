@@ -35,6 +35,7 @@ If you have any improvements to propose, be my guest, make a PR!
 - [The Haskell Heap](http://blog.ezyang.com/2011/04/the-haskell-heap/)
 - [All About Monads](http://www.haskell.org/haskellwiki/All_About_Monads)
 - [Write Yourself a Scheme in 48 Hours](http://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
+- [Blow your mind](http://www.haskell.org/haskellwiki/Blow_your_mind)
 
 ## Papers
 
