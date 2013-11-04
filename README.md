@@ -46,6 +46,7 @@ If you have any improvements to propose, be my guest, make a PR!
 
 - [Cheatsheet](http://cheatsheet.codeslower.com/)
 - [Getting started with Haskell](http://stackoverflow.com/questions/1012573/getting-started-with-haskell)
+- [Cabal is not a package manager](http://ivanmiljenovic.wordpress.com/2010/03/15/repeat-after-me-cabal-is-not-a-package-manager/)
 
 ## Fun
 
