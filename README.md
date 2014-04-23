@@ -10,6 +10,7 @@ If you have any improvements to propose, be my guest, make a PR!
 - [Haskell.org](www.haskell.org/hoogle/)
 - [Hoogle](http://www.haskell.org/hoogle/)
 - [IRC channel](www.haskell.org/haskellwiki/IRC_channel)
+- [Hask](http://dev.stephendiehl.com/hask/)
 
 ## Books
 
